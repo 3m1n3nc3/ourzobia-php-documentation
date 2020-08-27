@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to Ourzobia PHP
 
-You can use the [editor on GitHub](https://github.com/3m1n3nc3/ourzobia-php-documentation/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Ourzobia PHP - Social Ponzi Investment Script is the most advanced Ponzi investment php script currently available in the market, it designed to accommodate millions of users with the sole aim of creating a platform for social investment, somewhat like the usual weekly Esusu contributions done locally.
+Built upon the latest version of the Codeigniter PHP framework this script will enable you to run and manage your own Social Ponzi investment scheme without flaws and limits. 
+Ourzobia PHP has a built in Social Network called playground, purposely designed to alienate the use of conventional social media accounts alongside your website and to eliminate the fear of criminal actors that have become a plague on the social networking handles of so many similar concepts.
+Installation and management has been so simplified that you might not have any other work to do after installation other than monitoring, as almost all major processes and actions have been automated. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Who can use Ourzobia PHP?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ourzobia PHP is right for you if:
 
-```markdown
-Syntax highlighted code block
+-  You want a to run a Social Ponzi Investment Scheme.
+-  You want a to run a Social Ponzi Investment Scheme with honesty and a difference.
+-  You want to limit your Job to just monitoring and debugging.
+-  You want to create a sustainable Ponzi Investment platform.
+-  You want to keep scam actors, impersonators and hackers away from your platform.
+-  You are a student who wants to learn how certain features can implemented.
+-  You are a teacher who wants to show students how certain features can implemented.
+-  You are doing a research project in a related topic.
 
-# Header 1
-## Header 2
-### Header 3
+### Demo 
 
-- Bulleted
-- List
+A working demo is available for your to try out Ourzobia PHP before purchasing, visit [https://demo.ourzobiaphp.cf](https://demo.ourzobiaphp.cf/). The demo has no restrictions.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/3m1n3nc3/ourzobia-php-documentation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Demo Admin Username: `demo-admin@ourzobiaphp.cf`
+- Demo Admin Password: `demo`

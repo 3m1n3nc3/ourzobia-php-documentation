@@ -1,0 +1,9 @@
+#############
+Configuration
+#############
+
+.. toctree::
+    :glob:
+    :titlesonly:
+
+    *

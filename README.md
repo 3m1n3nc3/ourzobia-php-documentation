@@ -24,5 +24,5 @@ Ourzobia PHP is right for you if:
 
 A working demo is available for your to try out Ourzobia PHP before purchasing, visit [https://demo.ourzobiaphp.cf](https://demo.ourzobiaphp.cf/). The demo has no restrictions.
 
-    - Demo Admin Username: `demo-admin@ourzobiaphp.cf`
-    - Demo Admin Password: `demo`
+- Demo Admin Username: `demo-admin@ourzobiaphp.cf`
+- Demo Admin Password: `demo`

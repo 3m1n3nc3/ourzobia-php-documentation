@@ -2,8 +2,8 @@
 Welcome to Ourzobia PHP
 #######################
 
-Ourzobia PHP - Social Ponzi Investment Script is the most advanced Ponzi investment php script currently available in the market, it designed to accommodate millions of users with the sole aim of creating a platform for social investment, somewhat like the usual weekly Esusu contributions done locally.
-Built upon the latest version of the Codeigniter PHP framework this script will enable you to run and manage your own Social Ponzi investment scheme without flaws and limits. 
+Ourzobia PHP - Social Ponzi Investment Script is the most advanced Ponzi investment system currently available in the market, it designed to accommodate millions of users with the sole aim of creating a platform for social investment, somewhat like the usual weekly Esusu contributions done locally.
+Built upon the latest version of the Codeigniter PHP framework, this system will enable you to run and manage your own Social Ponzi investment scheme without flaws and limits. 
 Ourzobia PHP has a built in Social Network called playground, purposely designed to alienate the use of conventional social media accounts alongside your website and to eliminate the fear of criminal actors that have become a plague on the social networking handles of so many similar concepts.
 Installation and management has been so simplified that you might not have any other work to do after installation other than monitoring, as almost all major processes and actions have been automated.
 

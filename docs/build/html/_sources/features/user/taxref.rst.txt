@@ -28,9 +28,9 @@ Monthly Reactivation fees are similar to Activation fees and Reactivation fees, 
 Recommitments
 =============
 
-Recommitment is the system's way of ensuring that user do not come, hit and run, knowing that at all times the user's initial investment would always be held by the system. The user would not be allowed to withdraw their ROI until they have successfully made a new confirmed order.
+Recommitment is the system's way of ensuring that user do not come, hit and run, knowing that at all times the user's initial donation would always be held by the system. The user would not be allowed to withdraw their ROI until they have successfully made a new confirmed order.
 
 Referral Bonuses
 ================
 
-Referral bonuses serve as incentives to users who are active in community building, when a user's referral link is used during registration, every investment made by the users referrals will return a percentage to them. Referral bonuses are active by default but you can set the :doc:`Control Configuration </config/control>` ``Min. Ref. Bonus Withdrawal`` and ``Last Pledge = Withdrawable Bonus`` flags to manage how bonuses a disbursed and withdrawn. The bonuses can be managed from the :doc:`Packages </features/admin/packages>` 
+Referral bonuses serve as incentives to users who are active in community building, when a user's referral link is used during registration, every donation made by the users referrals will return a percentage to them. Referral bonuses are active by default but you can set the :doc:`Control Configuration </config/control>` ``Min. Ref. Bonus Withdrawal`` and ``Last Pledge = Withdrawable Bonus`` flags to manage how bonuses a disbursed and withdrawn. The bonuses can be managed from the :doc:`Packages </features/admin/packages>` 

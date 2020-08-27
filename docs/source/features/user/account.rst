@@ -15,5 +15,5 @@ Also admin depending on the Admin Level value can:
     - Change the user's package.
     - Set the user as prepaid, to make the user eligible for cashout without investing, useful for initial investors who had invested on building the project before the project goes live so that the first users can make payments to them.
     - Change the user's guider and referrer.
-    - Set how many percent the user will get as bonus for every investment made on the site, useful for the admin team.
+    - Set how many percent the user will get as bonus for every donation made on the site, useful for the admin team.
     - Add or remove user's referral bonus.

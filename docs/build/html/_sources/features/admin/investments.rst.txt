@@ -2,7 +2,7 @@
 Investments
 ###########
 
-The system allows you to view all investments, including history. But the most catchy ability, is that despite the fact that the system is fully automated, you can still make manual matching from the Investments section in the most simple, straight forward and beautiful manner ever.
+The system allows you to view all donation, including history. But the most catchy ability, is that despite the fact that the system is fully automated, you can still make manual matching from the Investments section in the most simple, straight forward and beautiful manner ever.
 
 You can:
 

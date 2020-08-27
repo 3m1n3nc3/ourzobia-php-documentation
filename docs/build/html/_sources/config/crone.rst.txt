@@ -17,7 +17,7 @@ There are typically two endpoints for Crone jobs in Ourzobia PHP:
     - Paying unpaid pledge referral bonuses
     - Reporting unpaid pledges to admin
     - Automatically matching cashout requests
-    - Automatically matching investment requests
+    - Automatically matching donation requests
 
     to setup the ``ugrd_users`` endpoint, create a crone job pointing to ``project_dir/public/index.php cli match_users``
 

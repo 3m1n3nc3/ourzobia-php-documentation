@@ -1,5 +1,5 @@
 ########
-Timeline
+Screenshots
 ########
 
 The Timeline enables users to keep track of all their transactions over time.

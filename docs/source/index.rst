@@ -28,3 +28,4 @@ Features
 
     features/user/index
     features/admin/index 
+    features/screenshots 

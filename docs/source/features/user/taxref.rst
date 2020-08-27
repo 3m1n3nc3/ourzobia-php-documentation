@@ -1,6 +1,6 @@
-#########################
+###########
 Maintenance
-#########################
+###########
 
 For a system to be sustainable there has to be features in place to make users give back to the community and that malicious actors are kept at bay, this is where our system maintenance features comes into play, we have put in various tools to ensure that users are always giving back to the system to avoid quick bankruptcy and also keep malicious people at bay.
 Lets look at some of those features.
@@ -24,6 +24,11 @@ Monthly Reactivation Fees
 =========================
 
 Monthly Reactivation fees are similar to Activation fees and Reactivation fees, the major difference is that the Monthly Reactivation fees are collected from every user every month as maintenance fee for the system. You can set the :doc:`Control Configuration </config/control>` ``Monthly Reactivation Fee`` and ``Pay activation fee to`` flags to activate.
+
+Recommitments
+=============
+
+Recommitment is the system's way of ensuring that user do not come, hit and run, knowing that at all times the user's initial investment would always be held by the system. The user would not be allowed to withdraw their ROI until they have successfully made a new confirmed order.
 
 Referral Bonuses
 ================

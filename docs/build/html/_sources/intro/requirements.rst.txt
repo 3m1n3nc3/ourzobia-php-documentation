@@ -8,12 +8,14 @@ installed.
 
 You should also have the following PHP extensions enabled on your server:
 
-  - ``php-json``
-  - ``php-mysqlnd``
+  - ``php-json`` 
   - ``php-mysqli``
   - ``php-curl``
   - ``php-zip``
   - ``php-xml``
+  - ``php-gd``
+  - ``php-mbstring``
+  - ``php-intl``
 
 You also have to set ``allow_url_fopen`` to ``1`` in your php.ini directive.
 

@@ -22,7 +22,15 @@ Ourzobia PHP is right for you if:
 
 ### Demo 
 
-A working demo is available for your to try out Ourzobia PHP before purchasing, visit [https://demo.ourzobiaphp.cf](https://demo.ourzobiaphp.cf/). The demo has no restrictions.
+##### Full Version Demo 
+
+A full working demo is available for your to try out Ourzobia PHP before purchasing, visit [https://demo.ourzobiaphp.cf](https://demo.ourzobiaphp.cf/). The demo has no restrictions.
+
+##### Lite Version Demo 
+
+A working demo of the `Lite` version is available for your to try out Ourzobia PHP before purchasing, visit [https://lite.ourzobiaphp.cf](https://lite.ourzobiaphp.cf/). The demo has no restrictions.
+
+##### Demo Admin
 
 - Demo Admin Username: `demo-admin@ourzobiaphp.cf`
 - Demo Admin Password: `demo`

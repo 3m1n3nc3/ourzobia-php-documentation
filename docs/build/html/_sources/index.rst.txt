@@ -18,6 +18,16 @@ Configuration
 
     config/index
 
+***********
+Investments
+***********
+
+.. toctree::
+    :includehidden:
+    :titlesonly:
+
+    investments/index
+
 ********
 Features
 ********
@@ -29,3 +39,4 @@ Features
     features/user/index
     features/admin/index 
     features/screenshots 
+    features/changelog 

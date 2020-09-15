@@ -19,14 +19,14 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Ourzobia PHP'
-copyright = '2020, Ourzobia PHP'
+project = 'Ourzobia PHP v1.1.0'
+copyright = '2020, Ourzobia PHP Last updated on Sept 05, 2020.'
 author = 'Ourzobia PHP'
 
 # The short X.Y version
 version = ''
 # The full version, including alpha/beta/rc tags
-release = '1.0.0'
+release = '1.1.0'
 
 
 # -- General configuration ---------------------------------------------------

@@ -2,7 +2,7 @@
 Introduction
 ############
 
-Ourzobia PHP is a Peer to Peer Investment PHP script. What this means is that the script, when installed on a live server, will allow users to become part of an investment program that you have created and are managing. This works by pairing a user who is interested in investing, with another user who has requested to cash-out or withdraw their investments from the system.
+Ourzobia PHP - Social Peer to Peer Donation System is a Peer to Peer Investment PHP script. What this means is that the script, when installed on a live server, will allow users to become part of an investment program that you have created and are managing. This works by pairing a user who is interested in investing, with another user who has requested to cash-out or withdraw their investments from the system.
 
 Let us look at an example of what happens in a typical peer to peer program after setup.
 When your program begins, there are no initial registered investors. This means that there are no eligible users to receive payments or request cash-outs. So, few users, probably your sponsors, are manually setup to receive initial payments. 

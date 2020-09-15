@@ -2,7 +2,7 @@
 Packages
 ########
 
-Packages are how Ourzobia PHP allows users to make investments on the system. They are designed to make the investing process on the system simple and as flexible as possible. Packages are not static predefined groups of investment amounts as one might imagine. Yes, they are predefined by the Site Administrator (Admin), but are in no way static. They are very much flexible and negotiable by the user. 
+Packages are how Ourzobia PHP - Social Peer to Peer Donation System allows users to make investments on the system. They are designed to make the investing process on the system simple and as flexible as possible. Packages are not static predefined groups of investment amounts as one might imagine. Yes, they are predefined by the Site Administrator (Admin), but are in no way static. They are very much flexible and negotiable by the user. 
 
 When defining packages, Admin would be required to define the investment amount of the package within a range and also define a default amount for it, then when a user wants to invest (Buy Package), they can enter an amount different from the default so long as it falls within the predefined range.
 

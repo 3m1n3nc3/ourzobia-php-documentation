@@ -19,8 +19,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Ourzobia PHP v1.1.0'
-copyright = '2020, Ourzobia PHP Last updated on Sept 05, 2020.'
+project = 'Ourzobia PHP - SP2PDS v1.1.0'
+copyright = '2020, Ourzobia PHP - Social Peer to Peer Donation System. Last updated on Sept 15, 2020'
 author = 'Ourzobia PHP'
 
 # The short X.Y version
@@ -139,7 +139,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'ourzobiadocs.tex', 'ourzobiadocs Documentation',
-     'Ourzobia PHP', 'manual'),
+     'Ourzobia PHP - SP2PDS', 'manual'),
 ]
 
 

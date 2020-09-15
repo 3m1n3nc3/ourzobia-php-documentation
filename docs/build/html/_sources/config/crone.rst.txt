@@ -2,9 +2,9 @@
 Setting up Crone Jobs
 #####################
 
-The automation of Ourzobia PHP is completely implemented with the CLI in order to ensure that users are only triggering processes that directly concerns them, while global activities affecting all users and the site as a whole are moved to the CLI and handled by Crone Jobs on the server side, this will ensure that load times are faster for the user.
+The automation of Ourzobia PHP - Social Peer to Peer Donation System is completely implemented with the CLI in order to ensure that users are only triggering processes that directly concerns them, while global activities affecting all users and the site as a whole are moved to the CLI and handled by Crone Jobs on the server side, this will ensure that load times are faster for the user.
 
-There are typically two endpoints for Crone jobs in Ourzobia PHP:
+There are typically two endpoints for Crone jobs in Ourzobia PHP - Social Peer to Peer Donation System:
 
 1. ``ugrd_users`` endpoint handles system intensive tasks like:
     - Generating or Removing the default system user account

@@ -1,19 +1,19 @@
-#######################
-Welcome to Ourzobia PHP
-#######################
+#############################################################
+Welcome to Ourzobia PHP - Social Peer to Peer Donation System
+#############################################################
 
 Ourzobia PHP - Social Peer to Peer Donation System is the most advanced Peer to Peer Donation system currently available in the market. It is designed to accommodate millions of users with the sole aim of creating a platform for Social Donations, somewhat like the usual weekly Esusu contributions done in certain countries around the world.
 
 Built upon the latest version of the Codeigniter PHP framework, this system enables you to run and manage your own Social Peer to Peer Donation scheme with Cryptocurrency support and without limitations. 
-Ourzobia PHP has a built in Social Network called PLAYGROUND, purposely designed to alienate the use of conventional social media accounts alongside your website and to eliminate the fear of criminal actors that have become a plague on the social networking handles of so many similar concepts.
+Ourzobia PHP - Social Peer to Peer Donation System has a built in Social Network called PLAYGROUND, purposely designed to alienate the use of conventional social media accounts alongside your website and to eliminate the fear of criminal actors that have become a plague on the social networking handles of so many similar concepts.
 Installation and management has been so simplified that you might not have any other real job to do after installation, other than monitoring. Almost all major processes and actions have been automated.
 
 
-*************************
-Who can use Ourzobia PHP?
-*************************
+***************************************************************
+Who can use Ourzobia PHP - Social Peer to Peer Donation System?
+***************************************************************
 
-Ourzobia PHP is right for you if:
+Ourzobia PHP - Social Peer to Peer Donation System is right for you if:
 
 -  you want a to run a Social Peer to Peer Donation Scheme.
 -  you want a to run a Social Peer to Peer Donation Scheme with Cryptocurrency support.
@@ -30,10 +30,27 @@ Ourzobia PHP is right for you if:
 Demo
 ****
 
-A working demo is available for you to try out Ourzobia PHP before purchasing. Visit `https://demo.ourzobiaphp.cf <https://demo.ourzobiaphp.cf/>`_. The demo has no restrictions.
+Working demos are available for you to try out Ourzobia PHP - Social Peer to Peer Donation System before purchasing. The demos have no restrictions. 
 
-    - Demo Admin Username: ``demo-admin@ourzobiaphp.cf``
-    - Demo Admin Password: ``demo``
+^^^^^^^^^^^^^^^^^
+Full Version Demo 
+^^^^^^^^^^^^^^^^^
+
+A working demo of the `Full Version` is available at `https://demo.ourzobiaphp.cf <https://demo.ourzobiaphp.cf/>`_.
+
+^^^^^^^^^^^^^^^^^
+Lite Version Demo 
+^^^^^^^^^^^^^^^^^
+
+A working demo of the `Lite Version` is available at `https://lite.ourzobiaphp.cf <https://lite.ourzobiaphp.cf/>`_.
+
+^^^^^^^^^^^^^^^^^^^^^^^^
+Demo Admin Credidentials 
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+	- Demo Admin Username: `demo-admin@ourzobiaphp.cf`
+	- Demo Admin Password: `demo`
+
 
 .. toctree::
     :hidden:

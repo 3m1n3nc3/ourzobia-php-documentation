@@ -1,6 +1,6 @@
-##########################
-Ourzobia PHP Documentation
-##########################
+################################################################
+Ourzobia PHP - Social Peer to Peer Donation System Documentation
+################################################################
 
 .. toctree::
     :includehidden:

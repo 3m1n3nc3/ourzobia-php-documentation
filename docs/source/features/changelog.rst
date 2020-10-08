@@ -3,6 +3,36 @@ Changelog
 #########
 
 =======
+v.1.1.4
+======= 
+1. Admin can now turn developer mode on or off for debug
+2. Added variables to admin user notifications
+3. Can turn Email Debug on or off and also send test email
+4. Fixed bug that causes system to use user's current package to display pledge info. 
+5. Admin can now choose to use the default or Ourvillage.gold translations pack
+6. All sendable email messages can now be customized by admin.
+7. *General Bug Fixes.*
+
+=======
+v.1.1.3
+=======
+1. Improved dashboard charts
+2. Email verification added
+3. Added ability to turn pledging and cashout on or off, manually or with the countdown timer.
+
+=======
+v.1.1.2
+=======
+4. *General Bug Fixes.*
+
+=======
+v.1.1.1
+=======
+1. Admin can now pick from multiple translations
+2. Optimized translations
+3. *General Bug Fixes.*
+
+=======
 v.1.1.0
 =======
 

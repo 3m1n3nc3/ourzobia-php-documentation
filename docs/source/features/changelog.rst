@@ -3,8 +3,16 @@ Changelog
 #########
 
 =======
+v.1.1.5
+=======
+1. Inline comments on playground can be toggled
+2. Added customization for language and translations
+3. Added temporary configuration for session based configuration
+4. *General Bug Fixes.*
+
+=======
 v.1.1.4
-======= 
+=======
 1. Admin can now turn developer mode on or off for debug
 2. Added variables to admin user notifications
 3. Can turn Email Debug on or off and also send test email
@@ -35,7 +43,6 @@ v.1.1.1
 =======
 v.1.1.0
 =======
-
 1. *Ability for admins to manually add banks.*
 2. *Admins can now choose whether to use the API or database to fetch bank info.*
 3. *Paystack API is now optional, to allow the system to be used from any country.*

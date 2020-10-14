@@ -36,13 +36,13 @@ Working demos are available for you to try out Ourzobia PHP - Social Peer to Pee
 Full Version Demo 
 ^^^^^^^^^^^^^^^^^
 
-A working demo of the `Full Version` is available at `https://demo.ourzobiaphp.cf <https://demo.ourzobiaphp.cf/>`_.
+A working demo of the `Full Version` is available at `https://demo.ourzobiaphp.cf <https://demo.ourzobiaphp.cf/?config=true&site_theme=socially&admin_theme=default&frontend_theme=default>`_.
 
 ^^^^^^^^^^^^^^^^^
 Lite Version Demo 
 ^^^^^^^^^^^^^^^^^
 
-A working demo of the `Lite Version` is available at `https://lite.ourzobiaphp.cf <https://lite.ourzobiaphp.cf/>`_.
+A working demo of the `Lite Version` is available at `https://lite.ourzobiaphp.cf <https://lite.ourzobiaphp.cf/?config=true&site_theme=lite&admin_theme=lite&frontend_theme=lite>`_.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^
 Demo Admin Credidentials 
@@ -60,4 +60,5 @@ Demo Admin Credidentials
     requirements
     installation
     lite
+    support
     license 

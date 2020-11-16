@@ -1,0 +1,227 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Add Product &mdash; ToneFlix Code 1.3.0 documentation</title>
+  
+
+  
+  
+    <link rel="shortcut icon" href="../../_static/favicon.png"/>
+  
+
+  
+
+  
+  
+    
+
+  
+
+  
+  
+    <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
+  
+
+  
+
+  
+        <link rel="index" title="Index"
+              href="../../genindex.html"/>
+        <link rel="search" title="Search" href="../../search.html"/>
+    <link rel="top" title="ToneFlix Code 1.3.0 documentation" href="../../index.html"/> 
+
+  
+  <script src="../../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../../index.html" class="icon icon-home"> ToneFlix Code
+          
+
+          
+            
+            <img src="../../_static/logo.png" class="logo" />
+          
+          </a>
+
+          
+            
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+                <ul>
+<li class="toctree-l1"><a class="reference internal" href="../../ourzobia_php/index.html">Ourzobia PHP - Social Peer to Peer Donation System</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../index.html">ToneFlix Code</a>
+        
+      </nav>
+
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../index.html">Docs</a> &raquo;</li>
+        
+      <li>Add Product</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="add-product">
+<h1>Add Product<a class="headerlink" href="#add-product" title="Permalink to this headline">¶</a></h1>
+<p>After setting up your product to interface with the API, the next step will be to grant usage access to a customer who has acquired the rights to use your product by adding the product to the validation APIs database.</p>
+<p><em>Setting up product validation and activation requires you to be looged in as an admin</em>.</p>
+<p>Point your web browser to <code class="docutils literal notranslate"><span class="pre">http://yourdomain.com/admin/products/create</span></code> where <code class="docutils literal notranslate"><span class="pre">yourdomain.com</span></code> is your actual domain name, or click on <code class="docutils literal notranslate"><span class="pre">Products</span></code> &gt; <code class="docutils literal notranslate"><span class="pre">Add</span> <span class="pre">Product</span></code> on the admin dashboard.</p>
+<ul class="simple">
+<li>Enter any name that identifies your product, it will be important to use the same name for all similar products you setup for validation.</li>
+<li>Enter the customer’s email address, this will be required when the customer first attempts to use the product.</li>
+<li>You may skip the domain name, just in case the user want to use one you are not aware of, the system will acquire this during validation and lock the product to that domain.</li>
+<li>The product code will also be required when the customer first attempts to use the product and is automatically generated.</li>
+<li>Set the status to <em>Active</em> and click on <code class="docutils literal notranslate"><span class="pre">Add</span></code>, when you edit a product you can set the status to <em>Inactive</em> to prevent validation.</li>
+</ul>
+<p>NB: <em>When you click on</em> <code class="docutils literal notranslate"><span class="pre">Add</span></code> <em>an associated user account will be generated for the provided email address which the new product will be linked to, if the email address already has an associated account, this process is skipped and the product is directly linked to it</em>.</p>
+<p>After setting up the product, the data you need to give to the user is just the <strong>Email Address</strong> and <strong>Activation Code</strong>, and optionally the <strong>Domain Name</strong>, when a Domain Name is provided script installation will be locked to that domain.</p>
+</div>
+
+
+           </div>
+          </div>
+          <footer>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2020, ToneFlix Code. Last updated on Nov. 5, 2020.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> and ❤️  using a custom <a href="https://github.com/LinxiFan/Sphinx-theme">theme</a> based on <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../../',
+            VERSION:'1.3.0',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="../../_static/jquery.js"></script>
+      <script type="text/javascript" src="../../_static/underscore.js"></script>
+      <script type="text/javascript" src="../../_static/doctools.js"></script>
+      <script type="text/javascript" src="../../_static/language_data.js"></script>
+
+  
+
+  
+  
+    <script type="text/javascript" src="../../_static/js/theme.js"></script>
+  
+
+  
+  
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.StickyNav.enable();
+      });
+  </script>
+   
+
+</body>
+</html>

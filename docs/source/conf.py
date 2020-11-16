@@ -19,14 +19,14 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Ourzobia PHP - SP2PDS v1.1.0'
-copyright = '2020, Ourzobia PHP - Social Peer to Peer Donation System. Last updated on Sept 15, 2020'
-author = 'Ourzobia PHP'
+project = 'ToneFlix Code'
+copyright = '2020, ToneFlix Code. Last updated on Nov. 5, 2020'
+author = 'ToneFlix Code'
 
 # The short X.Y version
 version = ''
 # The full version, including alpha/beta/rc tags
-release = '1.1.0'
+release = '1.3.0'
 
 
 # -- General configuration ---------------------------------------------------
@@ -111,7 +111,7 @@ html_static_path = ['nstatic']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'ourzobiadocsdoc'
+htmlhelp_basename = 'toneflixcodedocs'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -138,7 +138,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'ourzobiadocs.tex', 'ourzobiadocs Documentation',
+    (master_doc, 'toneflixcodedocs.tex', 'ToneFlix Code Documentation',
      'Ourzobia PHP - SP2PDS', 'manual'),
 ]
 
@@ -148,7 +148,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'ourzobiadocs', 'ourzobiadocs Documentation',
+    (master_doc, 'toneflixcodedocs', 'ToneFlix Code Documentation',
      [author], 1)
 ]
 
@@ -159,8 +159,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'ourzobiadocs', 'ourzobiadocs Documentation',
-     author, 'ourzobiadocs', 'One line description of project.',
+    (master_doc, 'toneflixcodedocs', 'ToneFlix Code Documentation',
+     author, 'toneflixcodedocs', 'One line description of project.',
      'Miscellaneous'),
 ]
 

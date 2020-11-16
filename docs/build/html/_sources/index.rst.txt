@@ -1,42 +1,20 @@
-################################################################
+########################
+Welcome to ToneFlix Code
+########################
+
+HubBoxx - Enterprise Hub and Web Product Manager Documentation
+==============================================================
+
+.. toctree:: 
+    :titlesonly:
+    :maxdepth: 2
+
+    hubboxx/index
+
 Ourzobia PHP - Social Peer to Peer Donation System Documentation
-################################################################
-
-.. toctree::
-    :includehidden:
+================================================================
+.. toctree:: 
     :titlesonly:
+    :maxdepth: 2
 
-    intro/index
-
-*************
-Configuration
-*************
-
-.. toctree::
-    :includehidden:
-    :titlesonly:
-
-    config/index
-
-***********
-Investments
-***********
-
-.. toctree::
-    :includehidden:
-    :titlesonly:
-
-    investments/index
-
-********
-Features
-********
-
-.. toctree::
-    :includehidden:
-    :titlesonly:
-
-    features/user/index
-    features/admin/index 
-    features/screenshots 
-    features/changelog 
+    ourzobia_php/index 

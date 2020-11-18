@@ -26,3 +26,4 @@ Features At a glance
 22. Activate and Validate Web based code scripts like PHP, NODE JS, ASP.net, E.t.c.
 23. Quickly scan a Qr-Code to view details of booked hub.
 24. Photo and Video Gallery.
+25. Countdown timer for booked hubs.

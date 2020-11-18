@@ -54,6 +54,5 @@ Demo Admin Credentials
     self
     requirements
     installation
-    lite
-    support
+    lite 
     license 

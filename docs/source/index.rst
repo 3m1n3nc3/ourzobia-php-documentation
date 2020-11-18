@@ -18,3 +18,12 @@ Ourzobia PHP - Social Peer to Peer Donation System Documentation
     :maxdepth: 2
 
     ourzobia_php/index 
+ 
+Get Support
+===========
+
+.. toctree::
+    :includehidden:
+    :titlesonly:
+
+    support 

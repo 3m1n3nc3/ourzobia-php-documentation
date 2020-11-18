@@ -29,9 +29,9 @@
            :width: 15px
            :target: javascript:void(0)
 
-*******
-Support
-*******
+*******************
+Support Information
+*******************
 
 Our free support mainly covers pre-sale questions, basic development questions, bug reports and help with included 3rd party assets through our support `https://tawk.to/chat/5f48333e1e7ade5df4448dcf/default <https://tawk.to/chat/5f48333e1e7ade5df4448dcf/default>`_.
 

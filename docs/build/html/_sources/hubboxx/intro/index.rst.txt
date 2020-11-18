@@ -50,7 +50,7 @@ A Working demo is available for you to try out HubBoxx - Enterprise Hub and Web 
 Demo Link
 ---------
 
-`https://demo.toneflixcode.cf/hubboxx <https://demo.toneflixcode.cf/hubboxx>`_
+`https://spik.me/hubboxx <https://spik.me/hubboxx>`_
 
 Demo Admin Credentials
 ----------------------

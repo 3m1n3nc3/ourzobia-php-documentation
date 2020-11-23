@@ -2,7 +2,7 @@
 HubBoxx - Enterprise Hub and Web Product Manager
 ################################################
 
-.. image:: ../b1.png
+.. image:: ../b3.png
    :width: 35%
    :align: center
    :target: javascript:void(0)

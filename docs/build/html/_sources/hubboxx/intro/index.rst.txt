@@ -7,8 +7,8 @@ This is perfect for you if you have script **codes distributed via online market
 your scripts enter an **activation code**, before they are able to use the product and also if you own business hubs and office facilities that you put out for daily rent and would need to allow customers book online and remotely.
 
 
-HubBoxx - Enterprise Hub and Web Product Manager?
-=================================================
+Who can use HubBoxx - Enterprise Hub and Web Product Manager?
+=============================================================
 
 HubBoxx - Enterprise Hub and Web Product Manager is right for you if:
 

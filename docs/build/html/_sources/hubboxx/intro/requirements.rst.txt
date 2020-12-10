@@ -36,3 +36,7 @@ Set the permissions of the following files and directories to ``755``:
   - ``public/sitemap Writable``
   - ``public/uploads Writable``
   - ``app/Controllers/Install``
+
+.. toctree::
+    :glob:
+    :titlesonly:

@@ -20,3 +20,7 @@ User Dashboard
 ==============
 
 The user dashboard shows the user the number of products and active products they have.
+
+.. toctree::
+    :glob:
+    :titlesonly:

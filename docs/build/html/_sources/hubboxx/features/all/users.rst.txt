@@ -10,3 +10,7 @@ Available Functions include:
     - Generate Cpanel Webmail Accounts.
     - Generate AfterLogic Webmail Accounts.
     - Delete Cpanel Webmail Accounts.
+
+.. toctree::
+    :glob:
+    :titlesonly:

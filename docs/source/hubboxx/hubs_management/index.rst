@@ -12,7 +12,7 @@ Create Hub Categories
 The Hub Category creation process is a simple one that requires you to point your web browser to ``http://yourdomain.com/admin/hubs/create`` where ``yourdomain.com`` is your actual domain name, or clicking ``Manage Hubs`` > ``Hub Category`` > ``Add Hub Category`` on the admin dashboard, the rest is self explanatory.
 
 Available settings include:
-  
+
     - ``Name`` 
     - ``Available Seats`` 
     - ``Icon`` 
@@ -22,7 +22,7 @@ Available settings include:
     - ``Facilities``  
     - ``Description``  
     - ``Banner Image``  
- 
+
 Manage Hub Categories
 =====================
 The system allows you to modify and delete Hubs you have created previously if the information available for them changes. simply point your web browser to ``http://yourdomain.com/admin/hubs`` or click ``Manage Hubs`` > ``Hub Category`` to begin exploring.
@@ -36,3 +36,7 @@ Hub List
 ========
 The Hub List allows you to view and manage all Hub Items created, you could directly edit their associated Hub Type or the selected Hub Item,
 to view the Hub List Point your web browser to ``http://yourdomain.com/admin/hubs/hub_list`` where ``yourdomain.com`` is your actual domain name, or click ``Manage Hubs`` > ``Hub List`` on the admin dashboard.
+
+.. toctree::
+    :glob:
+    :titlesonly:

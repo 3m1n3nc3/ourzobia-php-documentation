@@ -18,3 +18,7 @@ To manage all products on the system, point your web browser to ``http://yourdom
 Here you can see the **Product Code** and a red circled times |times| indicating that the product has not been activated by the customer or a green circled check |check| indicating that the product has been successfully activated.
 
 Next you can choose to *Edit* or *Delete* the product.
+
+.. toctree::
+    :glob:
+    :titlesonly:

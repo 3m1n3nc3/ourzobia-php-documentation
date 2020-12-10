@@ -57,3 +57,7 @@ This example is all you need to get started:
    </script>
 
 The example is hosted on `jsdelivr.net <https://jsdelivr.net>`_ CDN and can be used by simply replacing the value of ``data-api=""`` attribute with the full url from where your API is served from.
+
+.. toctree::
+    :glob:
+    :titlesonly:

@@ -3,8 +3,11 @@ Introduction
 ************
 
 **HubBoxx - Enterprise Hub and Web Product Manager** is a business hub or office space booking and web product validation and activation platform, that will help you protect your **PHP, NODE JS, ASP.net code scripts** and potentially anything that needs a web browser to run from unauthorized use and theft and also enables you manage and allow customers to make **online bookings** for your business hubs and rented office facilities.
+
 This is perfect for you if you have script **codes distributed via online marketplaces**, and would require that customers who purchase 
 your scripts enter an **activation code**, before they are able to use the product and also if you own business hubs and office facilities that you put out for daily rent and would need to allow customers book online and remotely.
+
+**HubBoxx - Enterprise Hub and Web Product Manager** also allows you to generate and provide custom email addresses using Cpanel for your users and staff allowing them to login with one click to the webmail interface.
 
 
 Who can use HubBoxx - Enterprise Hub and Web Product Manager?

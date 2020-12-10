@@ -108,3 +108,7 @@ If the request is successful, you should get a response similar to:
 	}
 
 If the product code is not valid, a :reds:`400 status_code` will be returned with an ``error`` status.
+
+.. toctree::
+    :glob:
+    :titlesonly:

@@ -11,7 +11,7 @@ Features At a glance
 7. Email Verification.
 8. Login with token instead of passwords.
 9. Change user password from Admin Dashboard.
-10. Block user from Admin Dashboard.
+10. Create, Manage and Block user from Admin Dashboard.
 11. Assign Admin Roles.
 12. Integrated with Tawk.to support system.
 13. Page Maker.
@@ -27,3 +27,13 @@ Features At a glance
 23. Quickly scan a Qr-Code to view details of booked hub.
 24. Photo and Video Gallery.
 25. Countdown timer for booked hubs.
+26. Blog and Events.
+27. Mailing list subscription.
+28. Enquiry Form.
+29. Multiple APIs
+30. Integrated with Google Analytics.
+31. Integrated with Google Maps. 
+
+.. toctree::
+    :glob:
+    :titlesonly:

@@ -16,3 +16,7 @@ Available Data for each logged item include:
     - Item (If request was a validation or activation request). 
     - Type of Metric. 
     - Logged Date. 
+
+.. toctree::
+    :glob:
+    :titlesonly:

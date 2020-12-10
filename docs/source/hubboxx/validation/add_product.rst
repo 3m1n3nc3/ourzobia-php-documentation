@@ -18,3 +18,7 @@ Point your web browser to ``http://yourdomain.com/admin/products/create`` where 
 NB: *When you click on* ``Add`` *an associated user account will be generated for the provided email address which the new product will be linked to, if the email address already has an associated account, this process is skipped and the product is directly linked to it*.
 
 After setting up the product, the data you need to give to the user is just the **Email Address** and **Activation Code**, and optionally the **Domain Name**, when a Domain Name is provided script installation will be locked to that domain.
+
+.. toctree::
+    :glob:
+    :titlesonly:

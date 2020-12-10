@@ -11,8 +11,12 @@ Manage Cron Jobs
 =================
 
 After setting up crone jobs on your server your next step would be to turn them on.
-Login to the admin dashboard and point your web browser to ``http://yourdomain.com/admin/configuration/system`` where ``yourdomain.com`` is your actual domain name or click on ``Config`` > ``Configuration`` > ``System`` on the admin dashboard.
+Login to the admin dashboard and point your web browser to ``http://yourdomain.com/admin/configuration/system`` where ``yourdomain.com`` is your actual domain name or click on ``Management`` > ``Configuration`` > ``System`` on the admin dashboard.
 
 *Cron Jobs management requires you to be looged in as an admin*.
 
 Scroll down to **System** and Toggle on the ``Crone Jobs`` switch.
+
+.. toctree::
+    :glob:
+    :titlesonly:

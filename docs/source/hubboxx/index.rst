@@ -45,6 +45,16 @@ Setup Webmail
  
     webmail/index
  
+*******
+Mailbox
+*******
+
+.. toctree::
+    :includehidden:
+    :titlesonly:
+ 
+    mailbox/index
+ 
 *********************************
 Product Validation and Activation
 *********************************

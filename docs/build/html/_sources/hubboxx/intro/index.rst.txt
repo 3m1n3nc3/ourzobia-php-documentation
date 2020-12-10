@@ -7,7 +7,7 @@ Introduction
 This is perfect for you if you have script **codes distributed via online marketplaces**, and would require that customers who purchase 
 your scripts enter an **activation code**, before they are able to use the product and also if you own business hubs and office facilities that you put out for daily rent and would need to allow customers book online and remotely.
 
-**HubBoxx - Enterprise Hub and Web Product Manager** also allows you to generate and provide custom email addresses using Cpanel for your users and staff allowing them to send, read and manage email messages without leaving the system at a convenience never before seen, users can also login with one click to the webmail interface without the requirement to enter passwords.
+**HubBoxx - Enterprise Hub and Web Product Manager** allows you to generate and provide custom email addresses using Cpanel for your users and staff allowing them to send, read and manage email messages without leaving the system at a convenience never before seen, users can also login with one click to the webmail interface without the requirement to enter passwords.
 
 
 Who can use HubBoxx - Enterprise Hub and Web Product Manager?

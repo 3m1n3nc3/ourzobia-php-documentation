@@ -23,6 +23,7 @@ Features
 
     features/quick_list
     features/all/index 
+    features/changelog
  
 **********
 Management

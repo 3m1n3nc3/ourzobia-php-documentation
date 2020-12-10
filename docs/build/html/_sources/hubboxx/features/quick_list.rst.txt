@@ -9,30 +9,33 @@ Features At a glance
 5. Password Resets.
 6. Reset/Change user password from Admin Dashboard.
 7. Email Verification.
-8. Login with token instead of passwords.
-9. Change user password from Admin Dashboard.
-10. Create, Manage and Block user from Admin Dashboard.
-11. Assign Admin Roles.
-12. Integrated with Tawk.to support system.
-13. Page Maker.
-14. Super Crone Jobs.
-15. Translatable.
-16. Advanced site analytics.
-17. Customizable.
-18. Business Hubs and Office Facility Bookings.
-19. Generate, Manage and Login to Cpanel Webmail Accounts.
-20. Generate, Manage and Login to AfterLogic Webmail Accounts.
-21. Collect and Manage payments and bookings.
-22. Activate and Validate Web based code scripts like PHP, NODE JS, ASP.net, E.t.c.
-23. Quickly scan a Qr-Code to view details of booked hub.
-24. Photo and Video Gallery.
-25. Countdown timer for booked hubs.
-26. Blog and Events.
-27. Mailing list subscription.
-28. Enquiry Form.
-29. Multiple APIs
-30. Integrated with Google Analytics.
-31. Integrated with Google Maps. 
+8. Send email messages.
+9. Receive and Read email messages.
+10. Login with token instead of passwords.
+11. Change user password from Admin Dashboard.
+12. Create, Manage and Block user from Admin Dashboard.
+13. Assign Admin Roles.
+14. Integrated with Tawk.to support system.
+15. Page Maker.
+16. Super Crone Jobs.
+17. Translatable.
+18. Advanced site analytics.
+19. Customizable.
+20. Business Hubs and Office Facility Bookings.
+21. Generate, Manage and Login to Cpanel Webmail Accounts.
+22. Generate, Manage and Login to AfterLogic Webmail Accounts.
+23. Collect and Manage payments and bookings.
+24. Activate and Validate Web based code scripts like PHP, NODE JS, ASP.net, E.t.c.
+25. Quickly scan a Qr-Code to view details of booked hub.
+26. Photo and Video Gallery.
+27. Countdown timer for booked hubs.
+28. Blog and Events.
+29. Mailing list subscription.
+30. Enquiry Form.
+31. Multiple APIs
+32. Integrated with Google Analytics.
+33. Integrated with Google Maps. 
+
 
 .. toctree::
     :glob:

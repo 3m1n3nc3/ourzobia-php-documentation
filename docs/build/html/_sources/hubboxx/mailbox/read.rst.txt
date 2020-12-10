@@ -6,6 +6,7 @@ To read a message, you will need to click on the sender's name/email address dep
 
 Clicking on the arrow next to the sender's email address will reveal a little more information about the message and the sender.
 
+
 .. toctree::
     :glob:
     :titlesonly:

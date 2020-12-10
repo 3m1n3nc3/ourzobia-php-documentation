@@ -8,6 +8,7 @@ After composing your message, there are still a few things you could do with you
 
 Other ways you could compose new messages is by Replying to other or incoming messages or forwarding them.
 
+
 .. toctree::
     :glob:
     :titlesonly:

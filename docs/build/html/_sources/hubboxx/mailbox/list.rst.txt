@@ -7,6 +7,7 @@ You can check and delete or send a reply to multiple messages, star or mark a me
 
 You will be able to view messages in other folders as well, like your ``Drafts`` and ``Spam`` and other folders you have created or that exist in your server.
 
+
 .. toctree::
     :glob:
     :titlesonly:

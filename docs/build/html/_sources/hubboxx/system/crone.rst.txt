@@ -1,6 +1,6 @@
-*********************
-Setting up Crone Jobs
-*********************
+********************
+Setting up Cron Jobs
+********************
 
 There are times when the system may be unable to acquire required and useful data from the client due to network down times and other unforeseen circumstances, when this happens, the system has been designed to process all available scraps and generate useful data at it's own convenience, this is made possible with the use of Cron Jobs.
 

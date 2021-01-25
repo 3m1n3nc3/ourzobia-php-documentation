@@ -2,6 +2,14 @@
 Welcome to ToneFlix Code
 ########################
 
+DuCollage Micro Blogging System
+===============================
+.. toctree:: 
+    :titlesonly:
+    :maxdepth: 2
+
+    ducollage/index 
+
 HubBoxx - Enterprise Hub and Web Product Manager Documentation
 ==============================================================
 

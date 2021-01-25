@@ -6,7 +6,7 @@ HubBoxx comes prebuilt it a simple but elegant blogging system that allows you t
 
 *Blog and Events management requires you to be looged in as an admin*.
 
-The Gallery section can be accessed by pointing your web browser to ``http://yourdomain.com/admin/posts`` where ``yourdomain.com`` is your actual domain name or click on ``Management`` > ``Blog and Events`` on the admin dashboard.
+The Blog and Events section can be accessed by pointing your web browser to ``http://yourdomain.com/admin/posts`` where ``yourdomain.com`` is your actual domain name or click on ``Management`` > ``Blog and Events`` on the admin dashboard.
 
 When editing or creating a new post or new event, you would find a tags input field, the tags you enter there will be used to sort and group posts on thee blog pages.
 

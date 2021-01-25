@@ -1,0 +1,268 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Setting up Cron Jobs &mdash; ToneFlix Code 1.3.0 documentation</title>
+  
+
+  
+  
+    <link rel="shortcut icon" href="../../_static/favicon.png"/>
+  
+
+  
+
+  
+  
+    
+
+  
+
+  
+  
+    <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
+  
+
+  
+
+  
+        <link rel="index" title="Index"
+              href="../../genindex.html"/>
+        <link rel="search" title="Search" href="../../search.html"/>
+    <link rel="top" title="ToneFlix Code 1.3.0 documentation" href="../../index.html"/>
+        <link rel="up" title="System Management" href="index.html"/>
+        <link rel="next" title="Features" href="features.html"/>
+        <link rel="prev" title="Content" href="content.html"/> 
+
+  
+  <script src="../../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../../index.html" class="icon icon-home"> ToneFlix Code
+          
+
+          
+            
+            <img src="../../_static/logo.png" class="logo" />
+          
+          </a>
+
+          
+            
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+                <ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="../index.html">DuCollage Micro Blogging System</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../intro/index.html">Introduction</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../features/quick_list.html">Features At a glance</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../features/all/index.html">Features Details</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../features/changelog.html">Changelog</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="index.html">System Management</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="blog_events.html">Blog and Events</a></li>
+<li class="toctree-l3"><a class="reference internal" href="configuration.html">Configuration</a></li>
+<li class="toctree-l3"><a class="reference internal" href="content.html">Content</a></li>
+<li class="toctree-l3 current"><a class="current reference internal" href="#">Setting up Cron Jobs</a><ul class="simple">
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="features.html">Features</a></li>
+<li class="toctree-l3"><a class="reference internal" href="updates.html">Updates</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../hubboxx/index.html">HubBoxx - Enterprise Hub and Web Product Manager</a></li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../ourzobia_php/index.html">Ourzobia PHP - Social Peer to Peer Donation System</a></li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../support.html">Support Information</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../index.html">ToneFlix Code</a>
+        
+      </nav>
+
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../index.html">Docs</a> &raquo;</li>
+        
+          <li><a href="../index.html">DuCollage Micro Blogging System</a> &raquo;</li>
+        
+          <li><a href="index.html">System Management</a> &raquo;</li>
+        
+      <li>Setting up Cron Jobs</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="setting-up-cron-jobs">
+<h1>Setting up Cron Jobs<a class="headerlink" href="#setting-up-cron-jobs" title="Permalink to this headline">¶</a></h1>
+<p>All automatic security updates are delivered through Cron jobs, also there are times when the system may be unable to acquire required and useful data from the client due to network down times and other unforeseen circumstances, when this happens, the system has been designed to process all available scraps and generate useful data at it’s own convenience, this is made possible with the use of Cron Jobs.</p>
+<p>To setup the system for this functionality, create a crone job at your server pointing to <code class="docutils literal notranslate"><span class="pre">project_dir/public/index.php</span> <span class="pre">cli</span> <span class="pre">index</span></code></p>
+<div class="section" id="manage-cron-jobs">
+<h2>Manage Cron Jobs<a class="headerlink" href="#manage-cron-jobs" title="Permalink to this headline">¶</a></h2>
+<p>After setting up crone jobs on your server your next step would be to turn them on.
+Login to the admin dashboard and point your web browser to <code class="docutils literal notranslate"><span class="pre">http://yourdomain.com/admin/configuration/system</span></code> where <code class="docutils literal notranslate"><span class="pre">yourdomain.com</span></code> is your actual domain name or click on <code class="docutils literal notranslate"><span class="pre">Management</span></code> &gt; <code class="docutils literal notranslate"><span class="pre">Configuration</span></code> &gt; <code class="docutils literal notranslate"><span class="pre">System</span></code> on the admin dashboard.</p>
+<p><em>Cron Jobs management requires you to be looged in as an admin</em>.</p>
+<p>Scroll down to <strong>System</strong> and Toggle on the <code class="docutils literal notranslate"><span class="pre">Crone</span> <span class="pre">Jobs</span></code> switch.</p>
+<div class="toctree-wrapper compound">
+</div>
+</div>
+</div>
+
+
+           </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="features.html" class="btn btn-neutral float-right" title="Features" accesskey="n">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="content.html" class="btn btn-neutral" title="Content" accesskey="p"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2020, ToneFlix Code. Last updated on Nov. 5, 2020.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> and ❤️  using a custom <a href="https://github.com/LinxiFan/Sphinx-theme">theme</a> based on <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../../',
+            VERSION:'1.3.0',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="../../_static/jquery.js"></script>
+      <script type="text/javascript" src="../../_static/underscore.js"></script>
+      <script type="text/javascript" src="../../_static/doctools.js"></script>
+      <script type="text/javascript" src="../../_static/language_data.js"></script>
+
+  
+
+  
+  
+    <script type="text/javascript" src="../../_static/js/theme.js"></script>
+  
+
+  
+  
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.StickyNav.enable();
+      });
+  </script>
+   
+
+</body>
+</html>

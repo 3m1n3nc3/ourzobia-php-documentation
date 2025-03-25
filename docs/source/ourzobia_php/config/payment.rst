@@ -10,6 +10,9 @@ Available settings include:
     - ``Currency Symbol`` 
     - ``Reference Prefix``
     - ``No activator message``
+    - ``Preferred Method to Fetch Banks``
+    - ``Allow Crypto Currencies``
+    - ``Allowed Crypto Wallets``
 
     Paystack api is required to automatically fetch the users fullname from their bank account details, get these from `Paystack.com <https://paystack.com>`_
 

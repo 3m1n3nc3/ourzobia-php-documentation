@@ -6,20 +6,21 @@ The automation of Ourzobia PHP - Social Peer to Peer Donation System is complete
 
 There are typically two endpoints for Crone jobs in Ourzobia PHP - Social Peer to Peer Donation System:
 
-1. ``ugrd_users`` endpoint handles system intensive tasks like:
+1. ``resolve_users`` endpoint handles system intensive tasks like:
     - Generating or Removing the default system user account
     - Upgrading users levels
     - Changing users guiders
 
-    to setup the ``ugrd_users`` endpoint, create a crone job pointing to ``project_dir/public/index.php cli ugrd_users``
+    to setup the ``resolve_users`` endpoint, create a crone job pointing to ``php /project_dir/spark cron:resolve_users``
 
-2. ``match_users`` endpoint handles system intensive tasks like:
+2. ``automate`` endpoint handles system intensive tasks like:
     - Paying unpaid pledge referral bonuses
     - Reporting unpaid pledges to admin
     - Automatically matching cashout requests
     - Automatically matching donation requests
+    - Automatically comfirming crypto payments
 
-    to setup the ``ugrd_users`` endpoint, create a crone job pointing to ``project_dir/public/index.php cli match_users``
+    to setup the ``automate`` endpoint, create a crone job pointing to ``php /project_dir/spark cron:automate``
 
  
 Manage Crone Jobs

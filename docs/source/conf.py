@@ -59,7 +59,7 @@ master_doc = 'index'
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = None
+language = 'en'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -75,12 +75,12 @@ pygments_style = None
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-import sphinx_theme
-html_theme = "neo_rtd_theme"
-html_theme_path = [sphinx_theme.get_html_theme_path('neo_rtd_theme')]
+# import sphinx_theme
+html_theme = "sphinx_rtd_theme"
+# html_theme_path = [sphinx_theme.get_html_theme_path('sphinx_rtd_theme')]
 # All available themes:
-print(sphinx_theme.THEME_LIST)
-# >> ['stanford_theme', 'neo_rtd_theme']
+# print(sphinx_theme.THEME_LIST)
+# >> ['stanford_theme', 'sphinx_rtd_theme']
 
 html_favicon = 'favicon.png'
 html_logo = 'logo.png'
@@ -95,7 +95,8 @@ html_show_sourcelink = False
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['nstatic']
+html_static_path = []
+# html_static_path = ['nstatic']
 
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.

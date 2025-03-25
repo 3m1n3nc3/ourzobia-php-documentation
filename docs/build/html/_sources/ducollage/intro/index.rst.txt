@@ -6,7 +6,7 @@ Introduction
 
 The system also comes with very few controls and options, this is done to ensure that every control and every option you come across is something you would actually need, use or touch, no verbosity just reality. 
 
-The system has been designed with the **Codeigniter** PHP framework and other latest web technologies and promises speed not yet before seen in the blogging industry.
+**DuCollage Micro Blogging System** has been designed with the **Codeigniter** PHP framework and other latest web technologies and promises speed not yet before seen in the blogging industry.
 
 
 Who can use DuCollage Micro Blogging System?

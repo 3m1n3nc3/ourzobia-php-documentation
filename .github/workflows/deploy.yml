@@ -22,11 +22,11 @@ jobs:
       - name: Build Sphinx documentation
         run: |
           cd docs
-          sphinx-build -M html . _build/html
+          make html
 
       - name: Init new repo in _build folder and commit generated files
         run: |
-          cd docs/_build
+          cd docs/build
           git init
           git add -A
           git config --local user.email "action@github.com"
@@ -36,6 +36,7 @@ jobs:
       - name: Force push to destination branch
         uses: ad-m/github-push-action@master
         with:
+          github_token: ${{ secrets.DEPLOY_KEY }}
           branch: gh-pages
           force: true
-          directory: ./docs/_build/html
+          directory: ./docs/build/html

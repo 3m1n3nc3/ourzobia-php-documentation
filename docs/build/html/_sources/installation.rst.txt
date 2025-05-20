@@ -1,5 +1,0 @@
-How to Install
-==============
-
-This is how to onstall.::
- 

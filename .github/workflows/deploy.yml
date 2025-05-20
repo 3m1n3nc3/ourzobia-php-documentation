@@ -39,4 +39,4 @@ jobs:
           github_token: ${{ secrets.DEPLOY_KEY }}
           branch: gh-pages
           force: true
-          directory: ./docs/build/html
+          directory: ./

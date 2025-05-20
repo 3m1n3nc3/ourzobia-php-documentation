@@ -2,6 +2,41 @@
 Changelog
 *********
 
+v.3.0.0
+=======
+1. Added support for PHP ^8.3.
+2. Updated Codeigniter to 4.0.0.
+3. Updated all dependencies.
+4. *Fix datatables bugs.*
+5. Included all themes.
+6. Optimize all features.
+7. *Other minor bug fixes.*
+
+v.2.1.0
+=======
+1. Added SMS notifications via twillio.
+2. Added notifications for Pledge, Cashout, Confirmation and Matching.
+3. Improve general responsiveness
+4. *Fixed all known bugs.*
+5. Added support for PHP version 8.1
+6. Added support for MariaDB 10.x
+
+v.2.0.0
+=======
+1. Upgraded system core to Codeigniter 4.1.8.
+2. Locked minimum required PHP version to 8.0
+3. Added support for Mysql 8.0
+4. *General Bug fixes*
+
+v.1.1.7
+=======
+1. Bonuses can now be withdrawn without matching with an activation fee.
+2. Admin can set duration for pledge fulfillment timeout.
+3. Added crypto to POP Upload.
+4. Added automatic security updates.
+5. Optimize the installer.
+6. *General Bug Fixes.*
+
 v.1.1.6
 =======
 1. Added confirmation for every important action.

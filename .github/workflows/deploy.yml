@@ -11,7 +11,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Install Sphinx
       - uses: actions/setup-python@v1
       - uses: BSFishy/pip-action@v1
         with:

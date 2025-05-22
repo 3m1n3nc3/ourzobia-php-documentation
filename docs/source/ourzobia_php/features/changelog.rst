@@ -2,6 +2,41 @@
 Changelog
 *********
 
+v.3.0.3
+=======
+1. Update changelog CI config.
+2. Fix the email verification system.
+3. Upgrade Codeigniter to the latest version.
+4. Fix verification bug.
+5. Move some utilties to dedicated routes.
+6. Add dedicated endpoint for admin login.
+7. Update workflow.
+8. Improve and optimise the updates checker.
+9. Uninistall `nelexa/zip`
+10. Use Flysystem to upload updates.
+11. Using Flysystem to handle zip packages.
+12. Complete new install method.
+13. Updates manager upgrade.
+
+v.3.0.2
+=======
+1. Use Flysystem to handle updates updates.
+2. Improve user experience.
+3. System is now more stable than ever.
+
+v.3.0.1
+=======
+1. Check pay_activation_to user during config and during payment.
+2. *Fix undefined $message variable.*
+3. *Fix notification dropdown overflow.*
+4. Add multiple new features and improvements.
+5. Make 2 separate spark commands for automation and user resolution.
+6. Add support for automatic crypto transaction verification.
+7. Cleanup code with pint.
+8. Use the setHeader to datatables headers.
+9. *Bug fix on datatables.*
+10. *General Bug fixes.*
+
 v.3.0.0
 =======
 1. Added support for PHP ^8.3.

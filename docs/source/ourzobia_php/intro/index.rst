@@ -33,18 +33,13 @@ Working demos are available for you to try out Ourzobia PHP - Social Peer to Pee
 Full Version Demo 
 -----------------
 
-A working demo of the `Full Version` is available at `https://spik.me/ourzobiaphp-full <https://spik.me/ourzobiaphp-full>`_.
-
-Lite Version Demo 
------------------
-
-A working demo of the `Lite Version` is available at `https://spik.me/ourzobiaphp-lite <https://spik.me/ourzobiaphp-lite>`_.
+A working demo of the `Full Version` is available at `https://cutt.ly/ourzobia <https://cutt.ly/ourzobia>`_.
 
 Demo Admin Credentials 
 ----------------------
 
-	- Demo Admin Username: `demo-admin@ourzobiaphp.cf`
-	- Demo Admin Password: `demo`
+	- Demo Admin Username: `demo-admin`
+	- Demo Admin Password: `password`
 
 
 .. toctree::

@@ -17,6 +17,7 @@ v.3.0.3
 11. Using Flysystem to handle zip packages.
 12. Complete new install method.
 13. Updates manager upgrade.
+14. Create dedicated Admin login endpoint at ``http://yourdomain.com/admin/login``.
 
 v.3.0.2
 =======

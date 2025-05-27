@@ -12,6 +12,8 @@ Built upon the latest version of the **Codeigniter PHP framework**, this system 
    :alt: Demo Banner
    :target: https://code.toneflix.com.ng/demos/ourzobia_php
 
+:raw-html:`<br /><br />`
+
 Demo Details
 ============
 
@@ -19,10 +21,12 @@ Demo Details
 | User Dashboard: https://code.toneflix.com.ng/demos/ourzobia_php/user/dashboard/
 
 Admin Demo Details:
+
 |    Demo Admin Username: demo-admin  
 |    Demo Admin Password: password
 
 User Demo Details:
+
 |    Create a new user account
 
 

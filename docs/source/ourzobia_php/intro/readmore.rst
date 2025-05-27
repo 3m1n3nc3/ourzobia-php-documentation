@@ -20,11 +20,13 @@ Demo Details
 | Admin Dashboard: https://code.toneflix.com.ng/demos/ourzobia_php/admin/dashboard/  
 | User Dashboard: https://code.toneflix.com.ng/demos/ourzobia_php/user/dashboard/
 
-Admin Demo Details:
-    Demo Admin Username: demo-admin  
-    Demo Admin Password: password
+**Admin Demo Details:**
 
-User Demo Details:
+    | Demo Admin Username: demo-admin  
+    | Demo Admin Password: password
+
+**User Demo Details:**
+
     Create a new user account
 
 

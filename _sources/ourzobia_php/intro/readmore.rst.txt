@@ -1,25 +1,3 @@
-.. raw:: html
-    <table class="ourz">
-        <tbody>
-            <tr>
-                <td>
-                    <a href="https://code.toneflix.com.ng/demos/ourzobia_php"><img alt="Ourzobia Demo" src="/_images/website.png" title="Ourzobia Demo"></a>
-                </td>
-                <td>
-                    <a href="https://docs.toneflix.com.ng/ourzobia_php"><img alt="Ourzobia Faq" src="/_images/faq.png" title="Ourzobia Faq"></a>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <a href="https://docs.toneflix.com.ng/ourzobia_php"><img alt="Ourzobia Documentation" src="/_images/documentation.png" title="Ourzobia Documentation"></a>
-                </td>
-                <td>
-                    <a href="https://docs.toneflix.com.ng/support.html"><img alt="Ourzobia Support" src="/_images/support.png" title="Ourzobia Support"></a>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-
 +------------------+------------------+
 |    |website|_    |      |faq|_      |
 +------------------+------------------+
@@ -34,21 +12,18 @@ Built upon the latest version of the **Codeigniter PHP framework**, this system 
    :alt: Demo Banner
    :target: https://code.toneflix.com.ng/demos/ourzobia_php
 
-
-DEMO Details
+Demo Details
 ============
 
-Admin Dashboard: https://code.toneflix.com.ng/demos/ourzobia_php/admin/dashboard/
-
-User Dashboard: https://code.toneflix.com.ng/demos/ourzobia_php/user/dashboard/
+| Admin Dashboard: https://code.toneflix.com.ng/demos/ourzobia_php/admin/dashboard/  
+| User Dashboard: https://code.toneflix.com.ng/demos/ourzobia_php/user/dashboard/
 
 Admin Demo Details:
-    Demo Admin Username: demo-admin
-
-    Demo Admin Password: password
+|    Demo Admin Username: demo-admin  
+|    Demo Admin Password: password
 
 User Demo Details:
-    Create a new user account
+|    Create a new user account
 
 
 Who can use Ourzobia PHP - Social Peer to Peer Donation System?
@@ -69,7 +44,7 @@ Ourzobia PHP - Social Peer to Peer Donation System is right for you if:
 .. |faq| image:: /faq.png
 .. _faq: https://docs.toneflix.com.ng/ourzobia_php/intro/readmore
 .. |support| image:: /support.png
-.. _support: https://docs.toneflix.com.ng/ourzobia_php/support
+.. _support: https://docs.toneflix.com.ng/support
 .. |website| image:: /website.png
 .. _website: https://code.toneflix.com.ng/demos/ourzobia_php
 .. |documentation| image:: /documentation.png

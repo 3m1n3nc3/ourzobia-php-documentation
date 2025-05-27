@@ -21,7 +21,6 @@ Demo Details
 | User Dashboard: https://code.toneflix.com.ng/demos/ourzobia_php/user/dashboard/
 
 Admin Demo Details:
-
     Demo Admin Username: demo-admin  
 
     Demo Admin Password: password

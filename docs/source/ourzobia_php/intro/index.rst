@@ -50,4 +50,5 @@ Demo Admin Credentials
     requirements
     installation
     lite 
+    readmore
     license 

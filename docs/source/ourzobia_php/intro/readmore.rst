@@ -20,11 +20,11 @@
         </tbody>
     </table>
 
-+-----------------+-----------------+
-|    |website|    |      |faq|      |
-+-----------------+-----------------+
-|    |support|    | |documentation| |
-+-----------------+-----------------+
++------------------+------------------+
+|    |website|_    |      |faq|_      |
++------------------+------------------+
+|    |support|_    | |documentation|_ |
++------------------+------------------+
 
 **Ourzobia PHP - Social Peer to Peer Donation System** is the most advanced **Peer to Peer Donation System** currently available in the market. It is designed to accommodate millions of users with the sole aim of creating a platform for Social Donations, somewhat like the usual weekly Esusu contributions done in certain countries around the world. 
 
@@ -32,6 +32,7 @@ Built upon the latest version of the **Codeigniter PHP framework**, this system 
 
 .. image:: /b2.png
    :alt: Demo Banner
+   :target: https://code.toneflix.com.ng/demos/ourzobia_php
 
 
 DEMO Details
@@ -66,6 +67,10 @@ Ourzobia PHP - Social Peer to Peer Donation System is right for you if:
 9. You are doing a research project in a related topic.
 
 .. |faq| image:: /faq.png
+.. _faq: https://docs.toneflix.com.ng/ourzobia_php/intro/readmore
 .. |support| image:: /support.png
+.. _support: https://docs.toneflix.com.ng/ourzobia_php/support
 .. |website| image:: /website.png
+.. _website: https://code.toneflix.com.ng/demos/ourzobia_php
 .. |documentation| image:: /documentation.png
+.. _documentation: https://docs.toneflix.com.ng/ourzobia_php

@@ -12,7 +12,7 @@ Built upon the latest version of the **Codeigniter PHP framework**, this system 
    :alt: Demo Banner
    :target: https://code.toneflix.com.ng/demos/ourzobia_php
 
-:raw-html:`<br /><br />`
+:raw-html:`<br />`
 
 Demo Details
 ============
@@ -23,7 +23,7 @@ Demo Details
 Admin Demo Details:
 
     Demo Admin Username: demo-admin  
-:raw-html:`<br /><br />`
+
     Demo Admin Password: password
 
 User Demo Details:

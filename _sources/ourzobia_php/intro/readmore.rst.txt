@@ -22,7 +22,6 @@ Demo Details
 
 Admin Demo Details:
     Demo Admin Username: demo-admin  
-
     Demo Admin Password: password
 
 User Demo Details:

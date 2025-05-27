@@ -22,12 +22,12 @@ Demo Details
 
 Admin Demo Details:
 
-|    Demo Admin Username: demo-admin  
-|    Demo Admin Password: password
+    Demo Admin Username: demo-admin  
+:raw-html:`<br /><br />`
+    Demo Admin Password: password
 
 User Demo Details:
-
-|    Create a new user account
+    Create a new user account
 
 
 Who can use Ourzobia PHP - Social Peer to Peer Donation System?
